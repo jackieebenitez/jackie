@@ -9,13 +9,16 @@
 
 /*text sizes*/
 .tx-450{
-	font-size: 450%;
+	font-size: 950%;
 }
 .tx-250{
-	font-size: 250%
+	font-size: 170%
 }
 .tx-100{
 	font-size: 130%
+}
+.tx-purple{
+    color:#2E0854;
 }
 
 /*margenes*/
